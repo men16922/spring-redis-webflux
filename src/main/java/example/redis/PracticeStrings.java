@@ -6,7 +6,7 @@ import redis.clients.jedis.Pipeline;
 
 import java.util.List;
 
-public class Main {
+public class PracticeStrings {
 
     public static void main(String[] args) {
         System.out.println("Hello world");
